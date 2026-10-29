@@ -1,0 +1,1 @@
+SPEED V9: reemplaza app/page.tsx y app/globals.css en tu proyecto actual. Reinicia npm.cmd run dev. La lata cambia de lado al entrar en cada sección, con opacidad fija. Si los textos quedan superpuestos durante el viaje, se puede ajustar el punto de activación (52%).
